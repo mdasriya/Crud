@@ -1,0 +1,157 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/1c49c064f0a743bb93e6aed701826217_9366/vulc-raid3r-lifestyle-skateboarding-slip-on-canvas-shoes.jpg",
+      "brand": "Puma",
+      "category": "women",
+      "price": 85,
+      "title": "Calibrate Runner Men’s Running Shoes",
+      "discount": "20% off"
+    },
+    {
+      "id": 3,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/8d3107cda1aa40e98871aef900fe4cf3_9366/nmd_r1-shoes.jpg",
+      "brand": "Adidas",
+      "category": "men",
+      "price": 80,
+      "title": "X Ghosted.3 Indoor Shoes",
+      "discount": "15% off"
+    },
+    {
+      "id": 4,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/18fc7fd70f6844458bdbaf480007a3af_9366/nmd_v3-shoes.jpg",
+      "brand": "Reebok",
+      "category": "women",
+      "price": 70,
+      "title": "NANO 9 Women's Cross Training Shoes",
+      "discount": "5% off"
+    },
+    {
+      "id": 6,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/3288d23263d24c37bee1ae890009804b_9366/galaxy-6-shoes.jpg",
+      "brand": "Puma",
+      "category": "women",
+      "price": 85,
+      "title": "Calibrate Runner Women’s Running Shoes",
+      "discount": "20% off"
+    },
+    {
+      "id": 7,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0697643edea04d7b8e2baf3800d4ea44_9366/znchill-lightmotion_-shoes.jpg",
+      "brand": "Adidas",
+      "category": "women",
+      "price": 90,
+      "title": "Stycon Laceless Hard Court Shoes",
+      "discount": "15% off"
+    },
+    {
+      "id": 8,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/be0ceb2c6b004cd2aa2eaf8600e895a0_9366/nebzed-cloudfoam-lifestyle-running-shoes.jpg",
+      "brand": "Reebok",
+      "category": "men",
+      "price": 55,
+      "title": "Work N Cushion 4.0 Men's Walking Shoes",
+      "discount": "5% off"
+    },
+    {
+      "id": 9,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/0f2218d691454627af6baf2a00e61fac_9366/runfalcon-3.0-shoes.jpg",
+      "brand": "Nike",
+      "category": "men",
+      "price": 100,
+      "title": "Air Force 1 '07 Men's Shoe",
+      "discount": "10% off"
+    },
+    {
+      "id": 10,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/04add050f4cb48efab54ad4a010e93ac_9366/lite-racer-3.0-shoes.jpg",
+      "brand": "Puma",
+      "category": "men",
+      "price": 80,
+      "title": "Ralph Sampson Lo Iconic Men's Sneakers",
+      "discount": "20% off"
+    },
+    {
+      "id": 11,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/5b4b9608c29840fa8f89ae89000a3091_9366/galaxy-6-shoes.jpg",
+      "brand": "Adidas",
+      "category": "men",
+      "price": 120,
+      "title": "Terrex Free Hiker GORE-TEX Hiking Shoes",
+      "discount": "15% off"
+    },
+    {
+      "id": 12,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/071d8fa3f46b452caf09af8e0092f3a1_9366/adizero-boston-11-shoes.jpg",
+      "brand": "Reebok",
+      "category": "women",
+      "price": 50,
+      "title": "Work N Cushion 4.0 Women's Walking Shoes",
+      "discount": "5% off"
+    },
+    {
+      "id": 13,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/9fa3df577701498a899eaf7e00596e86_9366/street-icon-m.jpg",
+      "brand": "Nike",
+      "category": "men",
+      "price": 150,
+      "title": "Air Max 2090 Men's Shoe",
+      "discount": "10% off"
+    },
+    {
+      "id": 14,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/59bf89f373ae45569b3daf8f015c7ede_9366/superstar-shoes.jpg",
+      "brand": "Puma",
+      "category": "men",
+      "price": 90,
+      "title": "Ralph Sampson Mid Iconic Men's Sneakers",
+      "discount": "20% off"
+    },
+    {
+      "id": 15,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/b37aafc99f35482eb5adadfe011eb0ba_9366/pureboost-22-shoes.jpg",
+      "brand": "Adidas",
+      "category": "women",
+      "price": 130,
+      "title": "Ultraboost 21 Primeblue Shoes",
+      "discount": "15% off"
+    },
+    {
+      "id": 16,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/46eb8871df69456396a9af8c011c8374_9366/nmd_r1-shoes.jpg",
+      "brand": "Skechers",
+      "category": "kids",
+      "price": 70,
+      "title": "Go Max-Athletic Air Mesh Slip On Walking Shoe",
+      "discount": "8% off"
+    },
+    {
+      "id": 17,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/ed5ccc15e7ae40bdae2daf8f00d588b9_9366/x_plrboost-shoes.jpg",
+      "brand": "Nike",
+      "category": "kids",
+      "price": 110,
+      "title": "React Miler Women's Running Shoe",
+      "discount": "12% off"
+    },
+    {
+      "id": 18,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/3cb0e23c492f41a19e6caf9c0144295d_9366/ultraboost-light-shoes.jpg",
+      "brand": "Puma",
+      "category": "men",
+      "price": 75,
+      "title": "Suede Classic XXI Men's Sneakers",
+      "discount": "18% off"
+    },
+    {
+      "id": 19,
+      "image": "https://assets.adidas.com/images/w_303,h_303,f_auto,q_auto,fl_lossy,c_fill,g_auto/8d3ab16a86e64571b405aad600bad099_9366/superstar-shoes.jpg",
+      "brand": "Adidas",
+      "category": "women",
+      "price": 100,
+      "title": "Solarboost 3 ST Shoes",
+      "discount": "20% off"
+    }
+  ]
+}
